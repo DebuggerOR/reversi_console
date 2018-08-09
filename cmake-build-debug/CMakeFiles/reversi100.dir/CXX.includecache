@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/orifogler/CLionProjects/reversi100/board.h
+cell.h
+/home/orifogler/CLionProjects/reversi100/cell.h
+
+/home/orifogler/CLionProjects/reversi100/cell.h
+
+/home/orifogler/CLionProjects/reversi100/manager.cpp
+manager.h
+/home/orifogler/CLionProjects/reversi100/manager.h
+
+/home/orifogler/CLionProjects/reversi100/manager.h
+board.h
+/home/orifogler/CLionProjects/reversi100/board.h
+player.h
+/home/orifogler/CLionProjects/reversi100/player.h
+
+/home/orifogler/CLionProjects/reversi100/player.h
+iostream
+-
+
